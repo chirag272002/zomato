@@ -19,6 +19,9 @@ A comprehensive exploratory data analysis (EDA) project on Zomato's Bengaluru re
 
 ## 📥 Loading the Dataset
 
+
+The dataset used in this project can be accessed from Kaggle: (https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants)
+
 - Imported essential libraries (Pandas, NumPy, Matplotlib, Seaborn, etc.)
 - Loaded Zomato’s restaurant dataset into a pandas DataFrame
 
